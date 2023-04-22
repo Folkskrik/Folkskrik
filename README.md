@@ -1,7 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Alexander aka Folkskrik
 
+---
+
 I am a software developer. Pushed to learn new abilities and realize my full potential possibility for developing software and many more. I always have been interested in Programming and IT technology.
-I enjoy spending time with friends and family in my free time. And I use my free time for gaming, traveling, and learning new things, and the best out of my free time I get when I combine everything.
 
 ---
 
@@ -18,7 +19,6 @@ I enjoy spending time with friends and family in my free time. And I use my free
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS Logo" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Logo" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VScode Logo" width="50" height="50" />
-
 
 ---
 <!--
