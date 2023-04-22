@@ -3,6 +3,7 @@
 ---
 
 I am a software developer, pushed to learn new abilities and realize my full potential possibility for developing software and many more. 
+
 I always have been interested in Programming and IT technology ever since I remember my self.
 
 ---
